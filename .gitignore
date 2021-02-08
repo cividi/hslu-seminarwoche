@@ -1,0 +1,6 @@
+depthmapXcli_*
+.vscode
+.env
+cache/
+.DS_Store
+__pycache__
