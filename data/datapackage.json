@@ -1,0 +1,77 @@
+{
+  "profile": "spatial-data-package",
+  "resources": [
+    {
+      "name": "mapbox",
+      "path": "mapbox://styles/gemeindescan/ckc4sha4310d21iszp8ri17u2",
+      "data": "data",
+      "mediatype": "application/vnd.mapbox-vector-tile",
+      "profile": "other-resource",
+      "schema": {}
+    }
+  ],
+  "keywords": [
+    "openstreetmap"
+  ],
+  "views": [
+    {
+      "name": "map",
+      "spec": {
+        "bounds": [
+          "geo:47.03583757,8.29744953",
+          "geo:47.06482274,8.32503335"
+        ],
+        "title": "Rollstuhlzugänglichkeit in der Luzerner Innenstadt",
+        "description": "OpenStreetMap Daten zu Supermärkten mit Rollstuhlzugänglichkeit in der Luzerner Innenstadt.",
+        "legend": [
+          {
+            "label": "Zugänglich",
+            "fillColor": "#00AF00",
+            "fillOpacity": "1",
+            "strokeColor": "#000000",
+            "strokeOpacity": 1,
+            "strokeWidth": 1,
+            "shape": "circle",
+            "size": "1",
+            "primary": true
+          },
+          {
+            "label": "Nicht zugänglich",
+            "fillColor": "#DC0000",
+            "fillOpacity": "1",
+            "strokeColor": "#000000",
+            "strokeOpacity": 1,
+            "strokeWidth": 1,
+            "shape": "circle",
+            "size": "1",
+            "primary": true
+          },
+          {
+            "label": "Unbekannt",
+            "fillColor": "#B6B6B6",
+            "fillOpacity": 1,
+            "strokeColor": "#000000",
+            "strokeOpacity": 1,
+            "strokeWidth": 1,
+            "shape": "circle",
+            "size": "1",
+            "primary": true
+          }
+        ]
+      },
+      "specType": "gemeindescanSnapshot",
+      "resources": [
+        "mapbox"
+      ]
+    }
+  ],
+  "name": "lucerne-accessbility",
+  "title": "Rollstuhlzugänglichkeit in der Luzerner Innenstadt",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
