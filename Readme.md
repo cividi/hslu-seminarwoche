@@ -7,7 +7,7 @@ Ziel: https://sandbox.gemeindescan.ch/de/IRMV1/T7Y16K/
 ## Tools
 - Datengrundlage: OpenStreetMap Export [data/lucerne-supermarkets.csv](data/lucerne-supermarkets.csv)
 - Tabellenverarbeitung (z.b. Excel, Numbers, Libre Sheets, ...)
-- Online GeoJSON Editor: [geojson.io](https://geojson.io) – [Mit rohem CSV](https://geojson.io/#id=github:cividi/hslu-seminarwoche/blob/main/data/lucerne-supermarkets.csv)
+- Online GeoJSON Editor: [geojson.io](https://geojson.io) – [Mit rohem CSV](https://geojson.io/#id=github:cividi/hslu-seminarwoche/blob/main/data/lucerne-supermarkets.geojson)
 - Data Package Creator: [datapackage-ui.cividi.vercel.app](https://datapackage-ui.cividi.vercel.app) – [Vorbereitetes datapackage.json](data/datapackage.json)
 - Gemeindescan Sandbox: [sandbox.gemeindescan.ch](https://sandbox.gemeindescan.ch)
 
