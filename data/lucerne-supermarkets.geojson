@@ -1,1 +1,1763 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"@id":"way/87220776","name":"Migros","branch":"Luzern Schweizerhof","alt_name":"Migros Schweizerhof (MM)","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"yes","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-schweizerhof","addr:street":"Hertensteinstrasse","addr:housenumber":9,"addr:postcode":6004},"geometry":{"type":"Point","coordinates":[8.3097142,47.0546778]}},{"type":"Feature","properties":{"@id":"way/90520644","name":"Denner","branch":"Luzern Sälistrasse","alt_name":"","addr:city":"Luzern","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"","operator":"","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Sälistrasse","addr:housenumber":21,"addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3008023,47.0456514]}},{"type":"Feature","properties":{"@id":"way/93459850","name":"Coop","branch":"Luzern Kasernenplatz","alt_name":"Coop Kasernenplatz","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"Mo-We 07:00-18:30, Th,Fr 07:00-20:00, Sa 07:00-16:00","operator":"Coop Genossenschaft","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Bruchstrasse","addr:housenumber":9,"addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.2999089,47.0511471]}},{"type":"Feature","properties":{"@id":"way/379342427","name":"Migros","branch":"Luzern Bahnhof","alt_name":"Migros Luzern Bahnhof","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Sa 06:00-22:00, Su 07:00-22:00","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":-1,"phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-bahnhof","addr:street":"","addr:housenumber":"","addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.3092909,47.0507647]}},{"type":"Feature","properties":{"@id":"way/379354224","name":"Coop","branch":"Luzern Bahnhof","alt_name":"Coop Luzern Bahnhof","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"Mo-Sa 06:00-22:00; Su 07:00-22:00","operator":"Coop Genossenschaft","wheelchair":"yes","@user":"sovereign_ch","internet_access":"","organic":"","level":-1,"phone":"","contact:phone":"+41 41 226 10 30","website":"","addr:street":"","addr:housenumber":"","addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.311262,47.0503038]}},{"type":"Feature","properties":{"@id":"node/506648228","name":"Denner","branch":"Luzern Kellerstrasse","alt_name":"","addr:city":"Luzern","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"Mo-We 08:00-18:30; Th-Fr 08:00-20:00; Sa 08:00-16:00","operator":"","wheelchair":"yes","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Brünigstrasse","addr:housenumber":"16-18","addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3115279,47.0431572]}},{"type":"Feature","properties":{"@id":"node/506648661","name":"Migros","branch":"Luzern Tribschenstrasse","alt_name":"Migros Tribschenstrasse","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Fr 07:00-19:00, Sa 07:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-tribschenstrasse","addr:street":"Tribschenstrasse","addr:housenumber":66,"addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3179016,47.0420802]}},{"type":"Feature","properties":{"@id":"node/668943412","name":"Coop","branch":"Luzern Schlossberg","alt_name":"Coop Schlossberg","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"Mo-Fr 07:30-18:30; Sa 07:30-16:00","operator":"Coop Genossenschaft","wheelchair":"","@user":"sovereign_ch","internet_access":"wlan","organic":"","level":"","phone":41413670970,"contact:phone":"","website":"https://coop.ch/","addr:street":"Maihofstrasse","addr:housenumber":1,"addr:postcode":6006},"geometry":{"type":"Point","coordinates":[8.3083616,47.0614224]}},{"type":"Feature","properties":{"@id":"node/1069059529","name":"Migros","branch":"Luzern Waldstätter","alt_name":"Migros Waldstätter","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"yes","@user":"sovereign_ch","internet_access":"wlan","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-waldstaetter","addr:street":"Winkelriedstrasse","addr:housenumber":58,"addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.3072505,47.0461309]}},{"type":"Feature","properties":{"@id":"node/1069059588","name":"Coop","branch":"Luzern Winkelried","alt_name":"Coop Winkelried","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"","operator":"Coop Genossenschaft","wheelchair":"yes","@user":"sovereign_ch","internet_access":"wlan","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Winkelriedstrasse","addr:housenumber":56,"addr:postcode":6000},"geometry":{"type":"Point","coordinates":[8.3068307,47.0465392]}},{"type":"Feature","properties":{"@id":"node/1213912708","name":"Coop","branch":"Luzern Hubelmatt","alt_name":"Coop Hubelmatt","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"","operator":"Coop Genossenschaft","wheelchair":"yes","@user":"topius","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":"","addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3084669,47.0372758]}},{"type":"Feature","properties":{"@id":"node/1254632069","name":"Coop","branch":"Luzern Schönbühl","alt_name":"Coop Schönbühl","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"","operator":"Coop Genossenschaft","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Langensandstrasse","addr:housenumber":23,"addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3287849,47.0372902]}},{"type":"Feature","properties":{"@id":"node/1254632070","name":"Migros","branch":"Luzern Schönbühl","alt_name":"Migros Schönbühl (MM)","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-schoenbuehl","addr:street":"Langensandstrasse","addr:housenumber":23,"addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3282536,47.0374219]}},{"type":"Feature","properties":{"@id":"node/1302026588","name":"Denner","branch":"Luzern EKZ Schönbühl","alt_name":"","addr:city":"Luzern","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"","operator":"","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Langensandstrasse","addr:housenumber":23,"addr:postcode":6005},"geometry":{"type":"Point","coordinates":[8.3287776,47.0374484]}},{"type":"Feature","properties":{"@id":"node/1334477909","name":"Migros Partner","branch":"Luzern Wesemlin","alt_name":"Migros Partner Wesemlin","addr:city":"Luzern","brand":"","brand:wikidata":"","opening_hours":"Mo-Fr 08:00-12:15, 13:30-19:00, Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-partner-luzern-wesemlin","addr:street":"Mettenwylstrasse","addr:housenumber":16,"addr:postcode":6006},"geometry":{"type":"Point","coordinates":[8.3168017,47.0624071]}},{"type":"Feature","properties":{"@id":"node/1351032263","name":"Migros","branch":"Luzern Bruchstrasse","alt_name":"Migros Bruchstrasse","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-bruchstrasse","addr:street":"Bruchstrasse","addr:housenumber":18,"addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.2993724,47.0505994]}},{"type":"Feature","properties":{"@id":"node/3580426606","name":"Aldi","branch":"","alt_name":"","addr:city":"","brand":"","brand:wikidata":"","opening_hours":"","operator":"","wheelchair":"","@user":"marco80","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":"","addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.3282701,47.0372139]}},{"type":"Feature","properties":{"@id":"node/4307893181","name":"Coop","branch":"Luzern Löwencenter","alt_name":"Coop Löwencenter","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"Mo-We 07:30-18:30, Th,Fr 07:30-21:00, Sa 08:00-16:00","operator":"Coop Genossenschaft","wheelchair":"yes","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Zürichstrasse","addr:housenumber":9,"addr:postcode":6004},"geometry":{"type":"Point","coordinates":[8.3101171,47.0568709]}},{"type":"Feature","properties":{"@id":"node/4307893182","name":"Denner","branch":"Luzern Löwen-Center","alt_name":"","addr:city":"Luzern","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"","operator":"","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Zürichstrasse","addr:housenumber":5,"addr:postcode":6004},"geometry":{"type":"Point","coordinates":[8.3100234,47.0562172]}},{"type":"Feature","properties":{"@id":"node/4434448389","name":"Aldi","branch":"","alt_name":"","addr:city":"","brand":"","brand:wikidata":"","opening_hours":"Mo-We 07:30-18:30; Th-Fr 07:30-21:00; Sa 07:30-16:00","operator":"","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":"","addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.298684,47.0514167]}},{"type":"Feature","properties":{"@id":"node/4483851909","name":"Shanghai","branch":"","alt_name":"","addr:city":"","brand":"","brand:wikidata":"","opening_hours":"","operator":"","wheelchair":"","@user":"Interactiondesigner","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":"","addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.3013009,47.0503581]}},{"type":"Feature","properties":{"@id":"node/4534849601","name":"Aldi","branch":"","alt_name":"","addr:city":"","brand":"Aldi","brand:wikidata":"Q125054","opening_hours":"Mo-We 08:00-18:30; Th, Fr 08:00-21:00; Sa 08:00-16:00","operator":"","wheelchair":"","@user":"Interactiondesigner","internet_access":"","organic":"","level":"","phone":"+41 41 240 79 82","contact:phone":"","website":"","addr:street":"Hertensteinstrasse","addr:housenumber":50,"addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.3075962,47.0541662]}},{"type":"Feature","properties":{"@id":"node/4751134997","name":"s'Gänterli Bio-Laden","branch":"","alt_name":"","addr:city":"","brand":"","brand:wikidata":"","opening_hours":"Tu-Fr 08:30-12:15,14:00-18:30; Sa 08:30-16:00","operator":"","wheelchair":"","@user":"Nedfro","internet_access":"","organic":"only","level":"","phone":"+41 41 240 59 12","contact:phone":"","website":"http://www.gänterli.ch/","addr:street":"Vonmattstrasse","addr:housenumber":50,"addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.300816,47.0461691]}},{"type":"Feature","properties":{"@id":"node/4931591722","name":"Migros","branch":"Luzern Schlossberg","alt_name":"Migros Schlossberg","addr:city":"Luzern","brand":"Migros","brand:wikidata":"Q680727","opening_hours":"Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://filialen.migros.ch/de/migros-supermarkt-luzern-schlossberg","addr:street":"Friedentalstrasse","addr:housenumber":6,"addr:postcode":6004},"geometry":{"type":"Point","coordinates":[8.3077943,47.0612692]}},{"type":"Feature","properties":{"@id":"node/5435055314","name":"Coop","branch":"Luzern Hirschmatt","alt_name":"Coop Hirschmatt","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"Mo-We 06:30-18:00; Th-Fr 06:30-24:00; PH closed; Sa 06:30-16:00","operator":"Coop Genossenschaft","wheelchair":"no","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Hirschmattstrasse","addr:housenumber":15,"addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.306677,47.0485838]}},{"type":"Feature","properties":{"@id":"node/6433998885","name":"Bio Oel","branch":"","alt_name":"","addr:city":"","brand":"","brand:wikidata":"","opening_hours":"","operator":"","wheelchair":"","@user":"Interactiondesigner","internet_access":"","organic":"only","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":"","addr:postcode":""},"geometry":{"type":"Point","coordinates":[8.2992586,47.0507244]}},{"type":"Feature","properties":{"@id":"node/6652920985","name":"Denner","branch":"Luzern Bundesstrasse","alt_name":"","addr:city":"Luzern","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"","operator":"","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Bundesstrasse","addr:housenumber":12,"addr:postcode":6003},"geometry":{"type":"Point","coordinates":[8.304805,47.0436265]}},{"type":"Feature","properties":{"@id":"node/6710832885","name":"Alnatura","branch":"Luzern","alt_name":"Alnatura Luzern","addr:city":"Luzern","brand":"Alnatura","brand:wikidata":"Q876811","opening_hours":"Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off","operator":"Genossenschaft Migros Luzern","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-luzern","addr:street":"Hertensteinstrasse","addr:housenumber":40,"addr:postcode":6004},"geometry":{"type":"Point","coordinates":[8.3084604,47.0543816]}},{"type":"Feature","properties":{"@id":"node/7395144124","name":"Coop","branch":"","alt_name":"Coop City Luzern Food","addr:city":"Luzern","brand":"Coop","brand:wikidata":"Q432564","opening_hours":"","operator":"Coop Genossenschaft","wheelchair":"","@user":"sovereign_ch","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"Rössligasse","addr:housenumber":"18-20","addr:postcode":6000},"geometry":{"type":"Point","coordinates":[8.3039971,47.0521569]}},{"type":"Feature","properties":{"@id":"node/8171358619","name":"Denner","branch":"","alt_name":"","addr:city":"","brand":"Denner","brand:wikidata":"Q379911","opening_hours":"","operator":"","wheelchair":"","@user":"topius","internet_access":"","organic":"","level":"","phone":"","contact:phone":"","website":"","addr:street":"","addr:housenumber":""},"geometry":{"type":"Point","coordinates":[8.3041762,47.037959]}}]}
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2022-01-25T20:11:28Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/87220776",
+          "addr:city": "Luzern",
+          "addr:housenumber": "9",
+          "addr:postcode": "6004",
+          "addr:street": "Hertensteinstrasse",
+          "alt_name": "Migros Schweizerhof (MM)",
+          "branch": "Luzern Schweizerhof",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "building": "commercial",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Migros",
+          "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "source": "Bing",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-schweizerhof",
+          "wheelchair": "yes",
+          "@timestamp": "2020-07-14T17:30:43Z",
+          "@version": 8,
+          "@changeset": 87990027,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.3096603,
+                47.0544041
+              ],
+              [
+                8.3100758,
+                47.0545668
+              ],
+              [
+                8.3097429,
+                47.0549515
+              ],
+              [
+                8.3095612,
+                47.054851
+              ],
+              [
+                8.3093527,
+                47.0547357
+              ],
+              [
+                8.3096603,
+                47.0544041
+              ]
+            ]
+          ]
+        },
+        "id": "way/87220776"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/90520644",
+          "addr:city": "Luzern",
+          "addr:housenumber": "21",
+          "addr:postcode": "6005",
+          "addr:street": "Sälistrasse",
+          "branch": "Luzern Sälistrasse",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "building": "yes",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-04-10T17:43:09Z",
+          "@version": 6,
+          "@changeset": 83377050,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.3007978,
+                47.0458412
+              ],
+              [
+                8.3005848,
+                47.04577
+              ],
+              [
+                8.300807,
+                47.0454616
+              ],
+              [
+                8.3010199,
+                47.0455329
+              ],
+              [
+                8.3008205,
+                47.0458096
+              ],
+              [
+                8.3007978,
+                47.0458412
+              ]
+            ]
+          ]
+        },
+        "id": "way/90520644"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/93459850",
+          "addr:city": "Luzern",
+          "addr:housenumber": "9",
+          "addr:postcode": "6003",
+          "addr:street": "Bruchstrasse",
+          "alt_name": "Coop Kasernenplatz",
+          "branch": "Luzern Kasernenplatz",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "building": "yes",
+          "name": "Coop",
+          "opening_hours": "Mo-We 07:00-18:30, Th,Fr 07:00-20:00, Sa 07:00-16:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2020-06-05T21:40:27Z",
+          "@version": 7,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.2999723,
+                47.051048
+              ],
+              [
+                8.300033,
+                47.0512145
+              ],
+              [
+                8.2998455,
+                47.0512462
+              ],
+              [
+                8.2998299,
+                47.0512029
+              ],
+              [
+                8.2997848,
+                47.0510798
+              ],
+              [
+                8.2998078,
+                47.0510759
+              ],
+              [
+                8.2999723,
+                47.051048
+              ]
+            ]
+          ]
+        },
+        "id": "way/93459850"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/379342427",
+          "addr:city": "Luzern",
+          "addr:postcode": "6003",
+          "alt_name": "Migros Luzern Bahnhof",
+          "branch": "Luzern Bahnhof",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "indoor": "yes",
+          "level": "-1",
+          "name": "Migros",
+          "opening_hours": "Mo-Sa 06:00-22:00, Su 07:00-22:00",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-bahnhof",
+          "@timestamp": "2020-07-14T17:30:10Z",
+          "@version": 8,
+          "@changeset": 87989937,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.3091514,
+                47.0507673
+              ],
+              [
+                8.3092337,
+                47.0506583
+              ],
+              [
+                8.3094303,
+                47.0507397
+              ],
+              [
+                8.309421,
+                47.0508711
+              ],
+              [
+                8.309313,
+                47.0508664
+              ],
+              [
+                8.3093161,
+                47.0508344
+              ],
+              [
+                8.3091514,
+                47.0507673
+              ]
+            ]
+          ]
+        },
+        "id": "way/379342427"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/379354224",
+          "addr:city": "Luzern",
+          "addr:postcode": "6003",
+          "alt_name": "Coop Luzern Bahnhof",
+          "branch": "Luzern Bahnhof",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "contact:phone": "+41 41 226 10 30",
+          "indoor": "yes",
+          "level": "-1",
+          "name": "Coop",
+          "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2021-03-13T06:42:18Z",
+          "@version": 10,
+          "@changeset": 100942561,
+          "@user": "KaiPankrath",
+          "@uid": 4067009
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.3111334,
+                47.0502778
+              ],
+              [
+                8.3111387,
+                47.050239
+              ],
+              [
+                8.3111491,
+                47.0501616
+              ],
+              [
+                8.3115272,
+                47.0501871
+              ],
+              [
+                8.3114809,
+                47.050446
+              ],
+              [
+                8.3109969,
+                47.0504139
+              ],
+              [
+                8.3110014,
+                47.050375
+              ],
+              [
+                8.3110088,
+                47.0503077
+              ],
+              [
+                8.3110136,
+                47.0502696
+              ],
+              [
+                8.3111334,
+                47.0502778
+              ]
+            ]
+          ]
+        },
+        "id": "way/379354224"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/87220776",
+          "addr:city": "Luzern",
+          "addr:housenumber": "9",
+          "addr:postcode": "6004",
+          "addr:street": "Hertensteinstrasse",
+          "alt_name": "Migros Schweizerhof (MM)",
+          "branch": "Luzern Schweizerhof",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "building": "commercial",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Migros",
+          "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "source": "Bing",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-schweizerhof",
+          "wheelchair": "yes",
+          "@timestamp": "2020-07-14T17:30:43Z",
+          "@version": 8,
+          "@changeset": 87990027,
+          "@user": "sovereign_ch",
+          "@uid": 5755216,
+          "@geometry": "center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3097142,
+            47.0546778
+          ]
+        },
+        "id": "way/87220776"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/90520644",
+          "addr:city": "Luzern",
+          "addr:housenumber": "21",
+          "addr:postcode": "6005",
+          "addr:street": "Sälistrasse",
+          "branch": "Luzern Sälistrasse",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "building": "yes",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-04-10T17:43:09Z",
+          "@version": 6,
+          "@changeset": 83377050,
+          "@user": "sovereign_ch",
+          "@uid": 5755216,
+          "@geometry": "center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3008023,
+            47.0456514
+          ]
+        },
+        "id": "way/90520644"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/93459850",
+          "addr:city": "Luzern",
+          "addr:housenumber": "9",
+          "addr:postcode": "6003",
+          "addr:street": "Bruchstrasse",
+          "alt_name": "Coop Kasernenplatz",
+          "branch": "Luzern Kasernenplatz",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "building": "yes",
+          "name": "Coop",
+          "opening_hours": "Mo-We 07:00-18:30, Th,Fr 07:00-20:00, Sa 07:00-16:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2020-06-05T21:40:27Z",
+          "@version": 7,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216,
+          "@geometry": "center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2999089,
+            47.0511471
+          ]
+        },
+        "id": "way/93459850"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/206357901",
+          "addr:city": "Luzern",
+          "addr:housenumber": "53",
+          "addr:postcode": "6006",
+          "addr:street": "Kreuzbuchstrasse",
+          "alt_name": "Migros Würzenbach",
+          "branch": "Luzern Würzenbach",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-wuerzenbach",
+          "@timestamp": "2020-07-14T15:23:22Z",
+          "@version": 6,
+          "@changeset": 87985589,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3398988,
+            47.0544427
+          ]
+        },
+        "id": "node/206357901"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/379342427",
+          "addr:city": "Luzern",
+          "addr:postcode": "6003",
+          "alt_name": "Migros Luzern Bahnhof",
+          "branch": "Luzern Bahnhof",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "indoor": "yes",
+          "level": "-1",
+          "name": "Migros",
+          "opening_hours": "Mo-Sa 06:00-22:00, Su 07:00-22:00",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-bahnhof",
+          "@timestamp": "2020-07-14T17:30:10Z",
+          "@version": 8,
+          "@changeset": 87989937,
+          "@user": "sovereign_ch",
+          "@uid": 5755216,
+          "@geometry": "center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3092909,
+            47.0507647
+          ]
+        },
+        "id": "way/379342427"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/379354224",
+          "addr:city": "Luzern",
+          "addr:postcode": "6003",
+          "alt_name": "Coop Luzern Bahnhof",
+          "branch": "Luzern Bahnhof",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "contact:phone": "+41 41 226 10 30",
+          "indoor": "yes",
+          "level": "-1",
+          "name": "Coop",
+          "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2021-03-13T06:42:18Z",
+          "@version": 10,
+          "@changeset": 100942561,
+          "@user": "KaiPankrath",
+          "@uid": 4067009,
+          "@geometry": "center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.311262,
+            47.0503038
+          ]
+        },
+        "id": "way/379354224"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/506648228",
+          "addr:city": "Luzern",
+          "addr:housenumber": "16-18",
+          "addr:postcode": "6005",
+          "addr:street": "Brünigstrasse",
+          "branch": "Luzern Kellerstrasse",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "brand:wikipedia": "en:Denner (supermarket)",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "check_date:opening_hours": "2021-05-26",
+          "name": "Denner",
+          "opening_hours": "Mo-We 08:00-18:30; Th-Fr 08:00-20:00; Sa 08:00-16:00",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2021-05-26T07:17:59Z",
+          "@version": 10,
+          "@changeset": 105335870,
+          "@user": "Approximation",
+          "@uid": 329340
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3115279,
+            47.0431572
+          ]
+        },
+        "id": "node/506648228"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/506648661",
+          "addr:city": "Luzern",
+          "addr:housenumber": "66",
+          "addr:postcode": "6005",
+          "addr:street": "Tribschenstrasse",
+          "alt_name": "Migros Tribschenstrasse",
+          "branch": "Luzern Tribschenstrasse",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "diet:halal": "no",
+          "diet:kosher": "no",
+          "name": "Migros",
+          "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-tribschenstrasse",
+          "wheelchair": "yes",
+          "@timestamp": "2022-01-08T13:44:46Z",
+          "@version": 15,
+          "@changeset": 115908401,
+          "@user": "8z0kqc7jz0v8",
+          "@uid": 14749801
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3169119,
+            47.0423087
+          ]
+        },
+        "id": "node/506648661"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/668943412",
+          "addr:city": "Luzern",
+          "addr:housenumber": "1",
+          "addr:postcode": "6006",
+          "addr:street": "Maihofstrasse",
+          "alt_name": "Coop Schlossberg",
+          "branch": "Luzern Schlossberg",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "internet_access": "wlan",
+          "name": "Coop",
+          "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-16:00",
+          "operator": "Coop Genossenschaft",
+          "phone": "+41413670970 +41 41 420 98 08",
+          "shop": "supermarket",
+          "website": "https://coop.ch/",
+          "@timestamp": "2022-01-22T08:53:17Z",
+          "@version": 7,
+          "@changeset": 116457973,
+          "@user": "Rollsa",
+          "@uid": 14533872
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3083616,
+            47.0614224
+          ]
+        },
+        "id": "node/668943412"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1069059529",
+          "addr:city": "Luzern",
+          "addr:housenumber": "58",
+          "addr:postcode": "6003",
+          "addr:street": "Winkelriedstrasse",
+          "alt_name": "Migros Waldstätter",
+          "branch": "Luzern Waldstätter",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "internet_access": "wlan",
+          "name": "Migros",
+          "opening_hours": "Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-waldstaetter",
+          "wheelchair": "yes",
+          "@timestamp": "2020-07-14T17:20:46Z",
+          "@version": 10,
+          "@changeset": 87989729,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3072505,
+            47.0461309
+          ]
+        },
+        "id": "node/1069059529"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1069059588",
+          "addr:city": "Luzern",
+          "addr:housenumber": "56",
+          "addr:postcode": "6000",
+          "addr:street": "Winkelriedstrasse",
+          "alt_name": "Coop Winkelried",
+          "branch": "Luzern Winkelried",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Coop",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2020-06-05T21:40:25Z",
+          "@version": 7,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3068307,
+            47.0465392
+          ]
+        },
+        "id": "node/1069059588"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1213912708",
+          "addr:city": "Luzern",
+          "addr:postcode": "6005",
+          "alt_name": "Coop Hubelmatt",
+          "branch": "Luzern Hubelmatt",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "name": "Coop",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 5,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3084669,
+            47.0372758
+          ]
+        },
+        "id": "node/1213912708"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1242864993",
+          "addr:city": "Littau",
+          "addr:housenumber": "88",
+          "addr:postcode": "6014",
+          "addr:street": "Luzernerstrasse",
+          "alt_name": "Coop Littau",
+          "branch": "Littau",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "name": "Coop",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2020-04-12T14:26:52Z",
+          "@version": 2,
+          "@changeset": 83429305,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2709761,
+            47.0510053
+          ]
+        },
+        "id": "node/1242864993"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1254632069",
+          "addr:city": "Luzern",
+          "addr:housenumber": "23",
+          "addr:postcode": "6005",
+          "addr:street": "Langensandstrasse",
+          "alt_name": "Coop Schönbühl",
+          "branch": "Luzern Schönbühl",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "name": "Coop",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2021-12-07T16:00:46Z",
+          "@version": 4,
+          "@changeset": 114666794,
+          "@user": "wobi9000",
+          "@uid": 10708323
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3287849,
+            47.0372902
+          ]
+        },
+        "id": "node/1254632069"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1254632070",
+          "addr:city": "Luzern",
+          "addr:housenumber": "23",
+          "addr:postcode": "6005",
+          "addr:street": "Langensandstrasse",
+          "alt_name": "Migros Schönbühl (MM)",
+          "branch": "Luzern Schönbühl",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "diet:halal": "no",
+          "diet:kosher": "no",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-schoenbuehl",
+          "wheelchair": "yes",
+          "@timestamp": "2022-01-01T09:45:52Z",
+          "@version": 11,
+          "@changeset": 115630193,
+          "@user": "8z0kqc7jz0v8",
+          "@uid": 14749801
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3282536,
+            47.0374219
+          ]
+        },
+        "id": "node/1254632070"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1302026588",
+          "addr:city": "Luzern",
+          "addr:housenumber": "23",
+          "addr:postcode": "6005",
+          "addr:street": "Langensandstrasse",
+          "branch": "Luzern EKZ Schönbühl",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "brand:wikipedia": "en:Denner (supermarket)",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2021-12-07T16:00:46Z",
+          "@version": 5,
+          "@changeset": 114666794,
+          "@user": "wobi9000",
+          "@uid": 10708323
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3287776,
+            47.0374484
+          ]
+        },
+        "id": "node/1302026588"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1334477909",
+          "addr:city": "Luzern",
+          "addr:housenumber": "16",
+          "addr:postcode": "6006",
+          "addr:street": "Mettenwylstrasse",
+          "alt_name": "Migros Partner Wesemlin",
+          "branch": "Luzern Wesemlin",
+          "name": "Migros Partner",
+          "opening_hours": "Mo-Fr 08:00-12:15,13:30-19:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-partner-luzern-wesemlin",
+          "@timestamp": "2021-10-09T14:58:58Z",
+          "@version": 8,
+          "@changeset": 112304263,
+          "@user": "stoerdebegga",
+          "@uid": 14183697
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3168017,
+            47.0624071
+          ]
+        },
+        "id": "node/1334477909"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1351032263",
+          "addr:city": "Luzern",
+          "addr:housenumber": "18",
+          "addr:postcode": "6003",
+          "addr:street": "Bruchstrasse",
+          "alt_name": "Migros Bruchstrasse",
+          "branch": "Luzern Bruchstrasse",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "name": "Migros",
+          "opening_hours": "Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-bruchstrasse",
+          "@timestamp": "2020-07-14T17:19:11Z",
+          "@version": 6,
+          "@changeset": 87989660,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2993724,
+            47.0505994
+          ]
+        },
+        "id": "node/1351032263"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1369379077",
+          "alt_name": "Migros Ruopigen",
+          "branch": "Ruopigen",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-ruopigen-zentrum-luzern",
+          "wheelchair": "yes",
+          "@timestamp": "2022-01-18T20:13:56Z",
+          "@version": 6,
+          "@changeset": 116314679,
+          "@user": "FischersFritz",
+          "@uid": 74900
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.274562,
+            47.0616861
+          ]
+        },
+        "id": "node/1369379077"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1586212540",
+          "brand": "Aldi",
+          "brand:wikidata": "Q125054",
+          "brand:wikipedia": "en:Aldi",
+          "name": "Aldi",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2021-03-01T11:25:27Z",
+          "@version": 5,
+          "@changeset": 100193440,
+          "@user": "wheelmap_visitor",
+          "@uid": 290680
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2944229,
+            47.0242278
+          ]
+        },
+        "id": "node/1586212540"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1841821791",
+          "addr:city": "Luzern",
+          "addr:housenumber": "46",
+          "addr:postcode": "6005",
+          "addr:street": "Zihlmattweg",
+          "alt_name": "Migros Allmend",
+          "branch": "Luzern Allmend",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "level": "0",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "phone": "+41 41 414 48 40",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-allmend",
+          "wheelchair": "yes",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 9,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3046528,
+            47.0313468
+          ]
+        },
+        "id": "node/1841821791"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1984053453",
+          "name": "Schappe Center",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2013-04-18T07:17:39Z",
+          "@version": 2,
+          "@changeset": 15769287,
+          "@user": "wheelmap_visitor",
+          "@uid": 290680
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2736114,
+            47.0343305
+          ]
+        },
+        "id": "node/1984053453"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3315683712",
+          "addr:city": "Luzern",
+          "addr:housenumber": "110",
+          "addr:postcode": "6003",
+          "addr:street": "Bernstrasse",
+          "name": "Schubi Weine",
+          "opening_hours": "Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00; Nov-Dec: Mo 08:00-12:00,14:00-18:30",
+          "operator": "Pius Schumacher",
+          "shop": "supermarket",
+          "@timestamp": "2020-12-29T20:11:42Z",
+          "@version": 2,
+          "@changeset": 96622823,
+          "@user": "Josef73",
+          "@uid": 213831
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2826871,
+            47.0528594
+          ]
+        },
+        "id": "node/3315683712"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3580426606",
+          "brand": "ALDI",
+          "brand:wikidata": "Q41171672",
+          "brand:wikipedia": "en:Aldi",
+          "name": "ALDI",
+          "shop": "supermarket",
+          "@timestamp": "2021-12-07T16:00:46Z",
+          "@version": 2,
+          "@changeset": 114666794,
+          "@user": "wobi9000",
+          "@uid": 10708323
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3282701,
+            47.0372139
+          ]
+        },
+        "id": "node/3580426606"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3622702536",
+          "addr:city": "Kriens",
+          "addr:housenumber": "38",
+          "addr:postcode": "6010",
+          "addr:street": "Obernauerstrasse",
+          "branch": "Kriens Obernauerstrasse",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "brand:wikipedia": "en:Denner (supermarket)",
+          "name": "Denner Satellit",
+          "shop": "supermarket",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 4,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2693685,
+            47.0340881
+          ]
+        },
+        "id": "node/3622702536"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3902835036",
+          "addr:city": "Kriens",
+          "addr:housenumber": "30",
+          "addr:postcode": "6010",
+          "addr:street": "Luzernerstrasse",
+          "alt_name": "Migros Kriens (MM)",
+          "branch": "Kriens Hofmatt",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-kriens-hofmatt",
+          "wheelchair": "yes",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 12,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2826546,
+            47.0337643
+          ]
+        },
+        "id": "node/3902835036"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3902888438",
+          "addr:city": "Kriens",
+          "addr:housenumber": "2",
+          "addr:postcode": "6010",
+          "addr:street": "Hobacherweg",
+          "alt_name": "Coop Schappe",
+          "branch": "Kriens Schappe",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "name": "Coop",
+          "opening_hours": "Mo,Tu,Th 08:00-18:30; We,Fr 08:00-20:00; Sa 07:30-16:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 6,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2731116,
+            47.0343833
+          ]
+        },
+        "id": "node/3902888438"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3906395211",
+          "addr:city": "Kriens",
+          "addr:housenumber": "28-30",
+          "addr:postcode": "6010",
+          "addr:street": "Luzernerstrasse",
+          "branch": "Kriens EKZ Hofmatt",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "brand:wikipedia": "en:Denner (supermarket)",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "operator": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-04-11T14:19:14Z",
+          "@version": 5,
+          "@changeset": 83400334,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2828336,
+            47.0336981
+          ]
+        },
+        "id": "node/3906395211"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4307893181",
+          "addr:city": "Luzern",
+          "addr:housenumber": "9",
+          "addr:postcode": "6004",
+          "addr:street": "Zürichstrasse",
+          "alt_name": "Coop Löwencenter",
+          "branch": "Luzern Löwencenter",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "name": "Coop",
+          "opening_hours": "Mo-We 07:30-18:30, Th,Fr 07:30-21:00, Sa 08:00-16:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2020-06-05T21:40:26Z",
+          "@version": 6,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3101171,
+            47.0568709
+          ]
+        },
+        "id": "node/4307893181"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4307893182",
+          "addr:city": "Luzern",
+          "addr:housenumber": "5",
+          "addr:postcode": "6004",
+          "addr:street": "Zürichstrasse",
+          "branch": "Luzern Löwen-Center",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-06-05T21:40:26Z",
+          "@version": 7,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3100234,
+            47.0562172
+          ]
+        },
+        "id": "node/4307893182"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4434448389",
+          "brand": "ALDI",
+          "brand:wikidata": "Q41171672",
+          "brand:wikipedia": "en:Aldi",
+          "name": "ALDI",
+          "opening_hours": "Mo-We 07:30-18:30; Th-Fr 07:30-21:00; Sa 07:30-16:00",
+          "shop": "supermarket",
+          "@timestamp": "2021-12-07T15:59:27Z",
+          "@version": 4,
+          "@changeset": 114666755,
+          "@user": "wobi9000",
+          "@uid": 10708323
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.298684,
+            47.0514167
+          ]
+        },
+        "id": "node/4434448389"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4483851909",
+          "name": "Shanghai",
+          "name:de": "Shanghai",
+          "name:fr": "Shanghai",
+          "shop": "supermarket",
+          "@timestamp": "2020-07-02T21:37:43Z",
+          "@version": 2,
+          "@changeset": 87471639,
+          "@user": "Interactiondesigner",
+          "@uid": 4076934
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3013009,
+            47.0503581
+          ]
+        },
+        "id": "node/4483851909"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4534849601",
+          "addr:housenumber": "50",
+          "addr:street": "Hertensteinstrasse",
+          "brand": "Aldi",
+          "brand:wikidata": "Q125054",
+          "brand:wikipedia": "en:Aldi",
+          "name": "Aldi",
+          "opening_hours": "Mo-We 08:00-18:30; Th, Fr 08:00-21:00; Sa 08:00-16:00",
+          "phone": "+41 41 240 79 82",
+          "shop": "supermarket",
+          "@timestamp": "2020-03-28T15:40:14Z",
+          "@version": 3,
+          "@changeset": 82756501,
+          "@user": "Interactiondesigner",
+          "@uid": 4076934
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3075962,
+            47.0541662
+          ]
+        },
+        "id": "node/4534849601"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4609332523",
+          "branch": "Luzern EKZ Ruopigen-Märt",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "wheelchair": "yes",
+          "@timestamp": "2022-01-18T20:13:56Z",
+          "@version": 6,
+          "@changeset": 116314679,
+          "@user": "FischersFritz",
+          "@uid": 74900
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2743467,
+            47.0614285
+          ]
+        },
+        "id": "node/4609332523"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4751134997",
+          "addr:housenumber": "50",
+          "addr:street": "Vonmattstrasse",
+          "name": "s'Gänterli Bio-Laden",
+          "opening_hours": "Tu-Fr 08:30-12:15,14:00-18:30; Sa 08:30-16:00",
+          "organic": "only",
+          "phone": "+41 41 240 59 12",
+          "shop": "supermarket",
+          "website": "http://www.gänterli.ch/",
+          "@timestamp": "2017-10-18T12:07:04Z",
+          "@version": 5,
+          "@changeset": 53037734,
+          "@user": "Nedfro",
+          "@uid": 5688071
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.300816,
+            47.0461691
+          ]
+        },
+        "id": "node/4751134997"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4931591722",
+          "addr:city": "Luzern",
+          "addr:housenumber": "6",
+          "addr:postcode": "6004",
+          "addr:street": "Friedentalstrasse",
+          "alt_name": "Migros Schlossberg",
+          "branch": "Luzern Schlossberg",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "de:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "check_date:opening_hours": "2021-09-22",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-schlossberg",
+          "@timestamp": "2021-09-22T13:04:20Z",
+          "@version": 6,
+          "@changeset": 111543061,
+          "@user": "sampeto",
+          "@uid": 9517052
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3077943,
+            47.0612692
+          ]
+        },
+        "id": "node/4931591722"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5435055314",
+          "addr:city": "Luzern",
+          "addr:housenumber": "15",
+          "addr:postcode": "6003",
+          "addr:street": "Hirschmattstrasse",
+          "alt_name": "Coop Hirschmatt",
+          "branch": "Luzern Hirschmatt",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "brand:wikipedia": "de:Coop (Schweiz)",
+          "name": "Coop",
+          "opening_hours": "Mo-We 06:30-18:00; Th-Fr 06:30-24:00; PH closed; Sa 06:30-16:00",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "wheelchair": "no",
+          "@timestamp": "2021-03-06T18:11:28Z",
+          "@version": 8,
+          "@changeset": 100548186,
+          "@user": "😈😈😈",
+          "@uid": 12657614
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.306677,
+            47.0485838
+          ]
+        },
+        "id": "node/5435055314"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5602979356",
+          "addr:street": "Würzenbachstrasse",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "cash_withdrawal": "postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 10:00-18:30; Fr 10:00-20:00; Sa 10:00-16:00",
+          "shop": "supermarket",
+          "@timestamp": "2021-11-19T10:52:33Z",
+          "@version": 5,
+          "@changeset": 113983736,
+          "@user": "woodpeck_repair",
+          "@uid": 145231
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3435784,
+            47.0550399
+          ]
+        },
+        "id": "node/5602979356"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5643925968",
+          "addr:city": "Luzern",
+          "addr:housenumber": "15",
+          "addr:postcode": "6006",
+          "addr:street": "Würzenbachstrasse",
+          "name": "Jurt Optik",
+          "opening_hours": "Di-Fr 08:00-12:00, 13:30-18:30 Sa 08:00-16:00",
+          "operator": "Bernhard Jurt",
+          "shop": "supermarket",
+          "@timestamp": "2018-05-26T15:20:21Z",
+          "@version": 1,
+          "@changeset": 59296250,
+          "@user": "trickedlist",
+          "@uid": 5878789
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3429131,
+            47.0550251
+          ]
+        },
+        "id": "node/5643925968"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6433998885",
+          "name": "Bio Oel",
+          "organic": "only",
+          "shop": "supermarket",
+          "@timestamp": "2019-04-28T15:13:09Z",
+          "@version": 2,
+          "@changeset": 69666561,
+          "@user": "Interactiondesigner",
+          "@uid": 4076934
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2992586,
+            47.0507244
+          ]
+        },
+        "id": "node/6433998885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6652920985",
+          "addr:city": "Luzern",
+          "addr:housenumber": "12",
+          "addr:postcode": "6003",
+          "addr:street": "Bundesstrasse",
+          "branch": "Luzern Bundesstrasse",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-06-05T21:40:27Z",
+          "@version": 6,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.304805,
+            47.0436265
+          ]
+        },
+        "id": "node/6652920985"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6710832885",
+          "addr:city": "Luzern",
+          "addr:housenumber": "40",
+          "addr:postcode": "6004",
+          "addr:street": "Hertensteinstrasse",
+          "alt_name": "Alnatura Luzern",
+          "branch": "Luzern",
+          "brand": "Alnatura",
+          "brand:wikidata": "Q876811",
+          "name": "Alnatura",
+          "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-luzern",
+          "@timestamp": "2020-06-30T16:26:23Z",
+          "@version": 5,
+          "@changeset": 87357762,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3084604,
+            47.0543816
+          ]
+        },
+        "id": "node/6710832885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6750927182",
+          "addr:city": "Kriens",
+          "addr:housenumber": "2",
+          "addr:postcode": "6010",
+          "addr:street": "Am Mattenhof",
+          "alt_name": "Migros Kriens Mattenhof",
+          "branch": "Kriens Mattenhof",
+          "brand": "Migros",
+          "brand:wikidata": "Q680727",
+          "brand:wikipedia": "en:Migros",
+          "cash_withdrawal": "migros_bank;postfinance_card",
+          "cash_withdrawal:fee": "no",
+          "cash_withdrawal:purchase_required": "no",
+          "cash_withdrawal:type": "checkout",
+          "name": "Migros",
+          "opening_hours": "Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 08:00-17:00; PH off",
+          "operator": "Genossenschaft Migros Luzern",
+          "shop": "supermarket",
+          "website": "https://filialen.migros.ch/de/migros-supermarkt-kriens-mattenhof",
+          "wheelchair": "yes",
+          "@timestamp": "2021-03-01T11:21:38Z",
+          "@version": 7,
+          "@changeset": 100193440,
+          "@user": "wheelmap_visitor",
+          "@uid": 290680
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3009461,
+            47.0276194
+          ]
+        },
+        "id": "node/6750927182"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7395144124",
+          "addr:city": "Luzern",
+          "addr:housenumber": "18-20",
+          "addr:postcode": "6000",
+          "addr:street": "Rössligasse",
+          "alt_name": "Coop City Luzern Food",
+          "brand": "Coop",
+          "brand:wikidata": "Q432564",
+          "name": "Coop",
+          "operator": "Coop Genossenschaft",
+          "shop": "supermarket",
+          "@timestamp": "2020-06-05T21:40:27Z",
+          "@version": 3,
+          "@changeset": 86263177,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3039971,
+            47.0521569
+          ]
+        },
+        "id": "node/7395144124"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7572536707",
+          "name": "Maximum Supermarkt",
+          "shop": "supermarket",
+          "@timestamp": "2020-05-30T13:53:18Z",
+          "@version": 1,
+          "@changeset": 85982605,
+          "@user": "sovereign_ch",
+          "@uid": 5755216
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3086011,
+            47.0229982
+          ]
+        },
+        "id": "node/7572536707"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8171358619",
+          "brand": "Denner",
+          "brand:wikidata": "Q379911",
+          "brand:wikipedia": "en:Denner (supermarket)",
+          "name": "Denner",
+          "shop": "supermarket",
+          "@timestamp": "2020-12-02T09:24:28Z",
+          "@version": 2,
+          "@changeset": 95144038,
+          "@user": "topius",
+          "@uid": 2903947
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.3041762,
+            47.037959
+          ]
+        },
+        "id": "node/8171358619"
+      }
+    ]
+  }
