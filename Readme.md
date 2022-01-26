@@ -21,9 +21,9 @@
 1. Als .xlsx speichern zum späteren weiterbearbeiten
 1. Spalten `title`, `description`, `marker-color`, ... händisch oder per Excel Formeln ergänzen
     - `title`: `=D2` oder jede andere Spalte, ggf. mittels `CONCAT` zusammengefügt (siehe `description`), D3 = Spalte D in der gleichen Zeile, hier Zeile 2
-    - `marker-color`: `=IF(M2="yes","#00AF00",IF(M2="no","#DC0000","#B6B6B6"))`, M2: Spalte M in Zeile 2
-    - `wheelchair_label`: `=IF(M2="yes","ja",IF(M2="no","nein","unbekannt"))`
-    - `description`: `=CONCAT("Rollstuhlzugänglich: ",N2)`
+    - `marker-color`: `=WENN(M2="yes";"#00AF00";WENN(M2="no";"#DC0000";"#B6B6B6"))`, M2: Spalte M in Zeile 2
+    - `wheelchair_label`: `=WENN(M2="yes";"ja";WENN(M2="no";"nein";"unbekannt"))`
+    - `description`: `=TEXTKETTE("Rollstuhlzugänglich: ";N2)`
 1. Datei > Speichern als: Als CSV speichern
 
 ### CSV nach GeoJSON konvertieren
