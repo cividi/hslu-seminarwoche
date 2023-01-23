@@ -1,0 +1,1338 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-01-23T20:35:19Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379342429",
+        "addr:city": "Luzern",
+        "addr:postcode": "6002",
+        "branch": "Luzern Bahnhof UG",
+        "brand": "Bachmann",
+        "indoor": "yes",
+        "level": "-1",
+        "name": "Bachmann",
+        "opening_hours": "Mo-Fr 06:15-21:00; Sa 06:30-20:00; Su 07:30-20:00",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/bahnhof-ug",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3092657,
+              47.0504384
+            ],
+            [
+              8.3092175,
+              47.0504199
+            ],
+            [
+              8.3091905,
+              47.0504253
+            ],
+            [
+              8.3091451,
+              47.0502798
+            ],
+            [
+              8.3092595,
+              47.0502561
+            ],
+            [
+              8.3092698,
+              47.0502978
+            ],
+            [
+              8.3092748,
+              47.0503474
+            ],
+            [
+              8.3092746,
+              47.0503963
+            ],
+            [
+              8.3092657,
+              47.0504384
+            ]
+          ]
+        ]
+      },
+      "id": "way/379342429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379376086",
+        "addr:city": "Luzern",
+        "addr:postcode": "6003",
+        "addr:street": "Bahnhofplatz",
+        "branch": "Luzern Bahnhof",
+        "brand": "Brezelkönig",
+        "cuisine": "sandwich;hot_dog",
+        "delivery": "no",
+        "diet:vegan": "yes",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Brezelkönig",
+        "operator": "Valora",
+        "shop": "bakery",
+        "takeaway": "only",
+        "website": "https://brezelkoenig.ch/de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3102409,
+              47.0502974
+            ],
+            [
+              8.310247,
+              47.050279
+            ],
+            [
+              8.3103203,
+              47.0502848
+            ],
+            [
+              8.3103203,
+              47.0503039
+            ],
+            [
+              8.3102409,
+              47.0502974
+            ]
+          ]
+        ]
+      },
+      "id": "way/379376086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379376087",
+        "addr:city": "Luzern",
+        "addr:housenumber": "2",
+        "addr:postcode": "6002",
+        "addr:street": "Robert-Zünd-Strasse",
+        "alt_name": "Hug Luzern Bahnhof",
+        "branch": "Luzern Bahnhof",
+        "brand": "Hug",
+        "check_date:opening_hours": "2022-12-11",
+        "indoor": "yes",
+        "name": "Hug",
+        "opening_hours": "Mo-Fr 05:30-21:00; Sa-Su 06:30-20:00",
+        "operator": "Hug Retail",
+        "shop": "bakery",
+        "website": "https://www.baeckerei-hug.ch/filialen/standorte/luzern-bahnhof/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3110794,
+              47.0498391
+            ],
+            [
+              8.3111692,
+              47.049847
+            ],
+            [
+              8.3111558,
+              47.0499436
+            ],
+            [
+              8.3110634,
+              47.0499385
+            ],
+            [
+              8.3110794,
+              47.0498391
+            ]
+          ]
+        ]
+      },
+      "id": "way/379376087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379379824",
+        "addr:city": "Luzern",
+        "addr:postcode": "6002",
+        "branch": "Luzern Bahnhof Gleis 3",
+        "brand": "Bachmann",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Bachmann",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/gleis-3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3095919,
+              47.0501196
+            ],
+            [
+              8.3094889,
+              47.0501131
+            ],
+            [
+              8.3095007,
+              47.0500382
+            ],
+            [
+              8.3096046,
+              47.0500464
+            ],
+            [
+              8.3095919,
+              47.0501196
+            ]
+          ]
+        ]
+      },
+      "id": "way/379379824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260019055",
+        "addr:city": "Luzern",
+        "addr:housenumber": "17a",
+        "addr:postcode": "6002",
+        "addr:street": "Pilatusstrasse",
+        "amenity": "cafe",
+        "branch": "Luzern Pilatushof",
+        "name": "La vie en rose",
+        "opening_hours": "Mo-We 07:00-18:00; Th-Sa 07:00-19:00; PH,Su 09:00-18:00",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/bachmann/standorte/la-vie-en-rose-r/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3065515,
+          47.048849
+        ]
+      },
+      "id": "node/260019055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442702219",
+        "name": "Bucher",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2844579,
+          47.0718996
+        ]
+      },
+      "id": "node/442702219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506878646",
+        "addr:city": "Luzern",
+        "addr:housenumber": "20",
+        "addr:postcode": "6002",
+        "addr:street": "Werkhofstrasse",
+        "amenity": "cafe",
+        "branch": "Luzern Tribschenstadt",
+        "brand": "Bachmann",
+        "name": "Bachmann",
+        "opening_hours": "Mo-Fr 06:15-19:00; Sa 07:00-17:00",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/tribschenstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3142966,
+          47.0443024
+        ]
+      },
+      "id": "node/506878646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620429421",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3767748,
+          47.0475626
+        ]
+      },
+      "id": "node/620429421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620429428",
+        "name": "Ehliger",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3737493,
+          47.0464587
+        ]
+      },
+      "id": "node/620429428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/771439086",
+        "name": "Kammermann",
+        "name:de": "Hänggi",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 07:00-14:00; Su 07:00-16:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2977461,
+          47.052118
+        ]
+      },
+      "id": "node/771439086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/771441070",
+        "name": "Suter's Meile",
+        "opening_hours": "Mo-Fr 05:00-19:00; Sa 05:00-17:00; Su,PH 00:00-17:00",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.302022,
+          47.048797
+        ]
+      },
+      "id": "node/771441070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984402884",
+        "addr:housenumber": "10",
+        "addr:street": "Fanghöfli",
+        "amenity": "cafe",
+        "name": "Wey Beck",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2604943,
+          47.0496865
+        ]
+      },
+      "id": "node/984402884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1095049104",
+        "name": "Sutter",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3093707,
+          47.0224248
+        ]
+      },
+      "id": "node/1095049104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1095049117",
+        "addr:city": "Horw",
+        "addr:housenumber": "60",
+        "addr:postcode": "6048",
+        "addr:street": "Kantonsstrasse",
+        "name": "Moos",
+        "phone": "+41 41 342 20 50",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3101968,
+          47.0215251
+        ]
+      },
+      "id": "node/1095049117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1128614190",
+        "name": "Emma's",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2753122,
+          47.0771397
+        ]
+      },
+      "id": "node/1128614190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1145599854",
+        "addr:city": "Emmenbrücke",
+        "addr:housenumber": "1",
+        "addr:postcode": "6020",
+        "addr:street": "Stauffacherstrasse",
+        "amenity": "cafe",
+        "branch": "Emmen Center",
+        "brand": "Bachmann",
+        "level": "0",
+        "name": "Bachmann",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/emmen-center",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2874151,
+          47.07472
+        ]
+      },
+      "id": "node/1145599854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1216666213",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2589769,
+          47.0515299
+        ]
+      },
+      "id": "node/1216666213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223457041",
+        "addr:city": "Emmen",
+        "addr:housenumber": "93",
+        "addr:postcode": "6032",
+        "addr:street": "Seetalstrasse",
+        "amenity": "cafe",
+        "email": "vogel@tic.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bäckerei-Konditorei Café Vogel",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+41 412601572",
+        "shop": "bakery",
+        "takeaway": "yes",
+        "website": "http://www.vogel-baeckerei.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2996834,
+          47.0768784
+        ]
+      },
+      "id": "node/1223457041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1228940798",
+        "name": "Koch",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2878802,
+          47.0713022
+        ]
+      },
+      "id": "node/1228940798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292171224",
+        "addr:housenumber": "35",
+        "addr:postcode": "6003",
+        "addr:street": "Hirschengraben",
+        "name": "Brunner",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3015672,
+          47.0499496
+        ]
+      },
+      "id": "node/1292171224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485039377",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Heini",
+        "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 09:00-17:00",
+        "shop": "bakery",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3065957,
+          47.0536123
+        ]
+      },
+      "id": "node/1485039377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485039383",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Heini",
+        "opening_hours": "Mo-Fr 06:00-18:30, Sa 07:00-17:00, Su 09:00-17:00",
+        "shop": "bakery",
+        "website": "https://www.heini.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.310524,
+          47.0571016
+        ]
+      },
+      "id": "node/1485039383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1553431794",
+        "addr:city": "Luzern",
+        "addr:housenumber": "9",
+        "addr:postcode": "6002",
+        "addr:street": "Alpenstrasse",
+        "branch": "Luzern Alpenstrasse",
+        "brand": "Bachmann",
+        "name": "Bachmann",
+        "opening_hours": "Mo-Fr 07:00-18:30, Sa 07:00-17:00",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/alpenstrasse",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.310506,
+          47.0556543
+        ]
+      },
+      "id": "node/1553431794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1553431810",
+        "name": "Heini",
+        "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3095872,
+          47.0550016
+        ]
+      },
+      "id": "node/1553431810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820562268",
+        "name": "Macchi",
+        "opening_hours": "Mo-Fr 06:45-18:30; Sa 06:45-14:00; Su off; PH off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3074588,
+          47.0470505
+        ]
+      },
+      "id": "node/1820562268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821541392",
+        "name": "Macchi",
+        "opening_hours": "Mo-Fr 07:45-18:30; Th 07:45-21:00; Sa 07:45-16:00; Su off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3097376,
+          47.0550946
+        ]
+      },
+      "id": "node/1821541392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1939780099",
+        "name": "Macchi",
+        "opening_hours": "Mo-Fr 06:45-18:30; Sa 06:45-16:00; PH off",
+        "opening_hours:signed": "no",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3081647,
+          47.0495641
+        ]
+      },
+      "id": "node/1939780099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681665330",
+        "name": "Odermatt",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su 08:00-12:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3069165,
+          47.0452007
+        ]
+      },
+      "id": "node/2681665330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775426727",
+        "addr:city": "Horw",
+        "addr:housenumber": "16",
+        "addr:postcode": "6048",
+        "addr:street": "Kirchweg",
+        "alt_name": "Hug Horw",
+        "branch": "Horw",
+        "brand": "Hug",
+        "name": "Bäckerei Hug",
+        "operator": "Hug Retail",
+        "phone": "+41 41 340 45 82",
+        "shop": "bakery",
+        "website": "https://www.baeckerei-hug.ch/filialen/standorte/horw/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.311146,
+          47.020934
+        ]
+      },
+      "id": "node/2775426727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925903218",
+        "name": "Habermacher",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2662183,
+          47.0500835
+        ]
+      },
+      "id": "node/2925903218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3497527550",
+        "addr:city": "Luzern",
+        "addr:housenumber": "7",
+        "addr:postcode": "6002",
+        "addr:street": "Schwanenplatz",
+        "amenity": "cafe",
+        "branch": "Luzern Schwanenplatz",
+        "brand": "Bachmann",
+        "name": "Bachmann",
+        "name:zh": "巧克力",
+        "opening_hours": "Mo-We 07:00-19:00; Th 07:00-21:00; Fr 07:00-19:00; Sa 07:00-17:30; Su 09:30-18:00",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/schwanenplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3086255,
+          47.0537647
+        ]
+      },
+      "id": "node/3497527550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508181136",
+        "addr:city": "Luzern",
+        "addr:housenumber": "2",
+        "addr:postcode": "6004",
+        "addr:street": "Schwanenplatz",
+        "alt_name": "Hug Schwanenplatz",
+        "branch": "Luzern Schwanenplatz",
+        "brand": "Hug",
+        "name": "Bäckerei Hug",
+        "opening_hours": "Mo-We 06:30-19:00; Th 06:30-21:00; Fr 06:30-19:00; Sa 06:30-16:00; Su 08:00-17:00",
+        "operator": "Hug Retail",
+        "shop": "bakery",
+        "website": "https://www.baeckerei-hug.ch/filialen/standorte/luzern-schwanenplatz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3084423,
+          47.0529523
+        ]
+      },
+      "id": "node/3508181136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3510740174",
+        "name": "P. Müller",
+        "opening_hours": "Mo-Fr 06:15-18:30; Sa 06:15-16:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.308578,
+          47.0614408
+        ]
+      },
+      "id": "node/3510740174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3618126897",
+        "addr:city": "Luzern",
+        "addr:housenumber": "14",
+        "addr:postcode": "6002",
+        "addr:street": "Pilatusstrasse",
+        "branch": "Luzern Kantonalbank",
+        "brand": "Bachmann",
+        "name": "Bachmann",
+        "opening_hours": "Mo-We,Fr 06:30-19:00; Th 06:30-20:00; Sa 07:00-17:30",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/kantonalbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3064084,
+          47.0492352
+        ]
+      },
+      "id": "node/3618126897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3683619193",
+        "addr:city": "Luzern",
+        "addr:postcode": "6003",
+        "addr:street": "Bundesstrasse",
+        "name": "Bäckerei - Conditorei Bebie",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 05:00-16:00; Su 05:00-14:00",
+        "operator": "Bebie",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3050587,
+          47.0443042
+        ]
+      },
+      "id": "node/3683619193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699596678",
+        "addr:housenumber": "19",
+        "addr:street": "Pilatusstrasse",
+        "level": "0",
+        "name": "Hänggi",
+        "opening_hours": "Mo-Th 06:30-18:30; Fr 06:30-18:30,23:30-24:00; Sa 00:00-14:00,23:00-24:00; Su 00:00-06:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3060936,
+          47.0485625
+        ]
+      },
+      "id": "node/3699596678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903611607",
+        "name": "Bäckerei Macchi Schappe",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2731279,
+          47.0342057
+        ]
+      },
+      "id": "node/3903611607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903613595",
+        "check_date:opening_hours": "2022-09-18",
+        "indoor_seating": "yes",
+        "name": "Bäckerei Hänggi",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:00-12:00",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "website": "https://www.bkh.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2797742,
+          47.0334295
+        ]
+      },
+      "id": "node/3903613595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3904183851",
+        "name": "Bäckerei Koch",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 07:00-16:00; Su 07:30-17:00",
+        "shop": "bakery",
+        "website": "http://www.ofenfrischebrote.ch/Kriens.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2909381,
+          47.0367117
+        ]
+      },
+      "id": "node/3904183851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4003553190",
+        "addr:housenumber": "85",
+        "addr:postcode": "6003",
+        "addr:street": "Obergrundstrasse",
+        "name": "Emma's Bäckerei",
+        "opening_hours": "Tu-Fr 06:00-18:00; Sa 07:30-13:00; Su 08:00-13:00; Mo 06:00-12:00",
+        "shop": "bakery",
+        "website": "https://www.emmas.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3038464,
+          47.0429195
+        ]
+      },
+      "id": "node/4003553190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004257614",
+        "check_date:opening_hours": "2022-01-29",
+        "name": "Feinbäckerei Moos",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:30-16:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3033415,
+          47.0451012
+        ]
+      },
+      "id": "node/4004257614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119726843",
+        "addr:city": "Luzern",
+        "addr:country": "CH",
+        "addr:housenumber": "17",
+        "addr:postcode": "6004",
+        "addr:street": "Rössligasse",
+        "branch": "Luzern Rössligasse",
+        "brand": "Bachmann",
+        "name": "Bachmann",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/rossligasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3041845,
+          47.0520692
+        ]
+      },
+      "id": "node/4119726843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228812691",
+        "name": "Harry's Bäckerei",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3023767,
+          47.0507252
+        ]
+      },
+      "id": "node/4228812691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307281891",
+        "addr:housenumber": "11",
+        "addr:street": "zürichstrasse",
+        "name": "Cafė bäckerei Habermacher",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3419203,
+          47.0824059
+        ]
+      },
+      "id": "node/4307281891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359099901",
+        "name": "Moos",
+        "opening_hours": "Mo-Fr 6:30-18:30, Sa 6:30-16:00",
+        "phone": "+41 41 410 33 24",
+        "shop": "bakery",
+        "website": "http://www.beck-moos.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3037943,
+          47.0513738
+        ]
+      },
+      "id": "node/4359099901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560113906",
+        "name": "Mlinar Caffe",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa, Su 07:30-22:00",
+        "phone": "+41 41 260 75 30",
+        "shop": "bakery",
+        "website": "https://www.mlinar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2817778,
+          47.0706821
+        ]
+      },
+      "id": "node/4560113906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4592623890",
+        "addr:city": "Luzern",
+        "addr:housenumber": "5",
+        "addr:postcode": "6004",
+        "addr:street": "Zürichstrasse",
+        "alt_name": "Hug Löwencenter",
+        "branch": "Luzern Löwencenter",
+        "brand": "Hug",
+        "name": "Bäckerei Hug",
+        "operator": "Hug Retail",
+        "shop": "bakery",
+        "website": "https://filialen.baeckerei-hug.ch/filialen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3103145,
+          47.0563538
+        ]
+      },
+      "id": "node/4592623890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607970089",
+        "addr:housenumber": "65",
+        "addr:street": "Maihofstrasse",
+        "name": "Macchi",
+        "name:de": "Macchi",
+        "name:en": "Macchi",
+        "name:fr": "Macchi",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 06:30-12:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3114882,
+          47.0654923
+        ]
+      },
+      "id": "node/4607970089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4786751723",
+        "addr:city": "Luzern",
+        "addr:housenumber": "2",
+        "addr:postcode": "6006",
+        "addr:street": "Mettenwylstrasse",
+        "name": "Kreyenbühl",
+        "name:de": "Kreyenbühl",
+        "name:en": "Kreyenbühl",
+        "name:fr": "Kreyenbühl",
+        "opening_hours": "Mo-Fr 14:30-18:30,07:30-12:15; Sa 07:30-12:15; Su 08:00-12:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3153943,
+          47.0605094
+        ]
+      },
+      "id": "node/4786751723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537626523",
+        "name": "Äss-Bar",
+        "opening_hours": "Tu-Fr 08:00-18:30; Sa 08:00-16:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3126771,
+          47.054941
+        ]
+      },
+      "id": "node/5537626523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5547062833",
+        "name": "Emma's",
+        "shop": "bakery",
+        "website": "https://www.emmas.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2732148,
+          47.0629849
+        ]
+      },
+      "id": "node/5547062833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5602979350",
+        "name": "Kreyenbühl",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3449933,
+          47.0548955
+        ]
+      },
+      "id": "node/5602979350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5903555980",
+        "addr:city": "Adligenswil",
+        "addr:housenumber": "2",
+        "addr:postcode": "6043",
+        "addr:street": "Dorfstrasse",
+        "name": "Bäckerei Brunner",
+        "phone": "+41 41 370 13 25",
+        "shop": "bakery",
+        "website": "https://www.beck-brunner.ch/adligenswil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3642797,
+          47.071336
+        ]
+      },
+      "id": "node/5903555980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183396404",
+        "name": "Koch",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 07:00-12:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2914779,
+          47.0315109
+        ]
+      },
+      "id": "node/6183396404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7075335385",
+        "addr:city": "Kriens",
+        "addr:housenumber": "6",
+        "addr:postcode": "6010",
+        "addr:street": "Am Mattenhof",
+        "alt_name": "Hug Mattenhof",
+        "branch": "Kriens Mattenhof",
+        "brand": "Hug",
+        "name": "Bäckerei Hug",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa,Su 07:00-17:00",
+        "operator": "Hug Retail",
+        "shop": "bakery",
+        "website": "https://www.baeckerei-hug.ch/filialen/standorte/kriens-mattenhof/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3014257,
+          47.0272348
+        ]
+      },
+      "id": "node/7075335385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124768632",
+        "addr:city": "Ebikon",
+        "addr:housenumber": "21",
+        "addr:postcode": "6030",
+        "addr:street": "Luzernerstrasse",
+        "name": "Brunner",
+        "opening_hours": "Mo-Fr 06:15-18:30, Sa 06:15-16:00, Su 07:00 - 12:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3337137,
+          47.0770773
+        ]
+      },
+      "id": "node/7124768632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7450663141",
+        "amenity": "cafe",
+        "branch": "Kriens Pilatusmarkt",
+        "brand": "Bachmann",
+        "diet:vegetarian": "yes",
+        "name": "Bachmann",
+        "operator": "Confiseur Bachmann",
+        "shop": "bakery",
+        "website": "https://www.confiserie.ch/de/pilatusmarkt-eg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2997662,
+          47.0179227
+        ]
+      },
+      "id": "node/7450663141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7555982454",
+        "addr:city": "Emmenbrücke",
+        "addr:housenumber": "1",
+        "addr:postcode": "6020",
+        "addr:street": "Stauffacherstrasse",
+        "branch": "Emmen Center",
+        "brand": "Brezelkönig",
+        "level": "0",
+        "name": "Brezelkönig",
+        "operator": "Valora",
+        "shop": "bakery",
+        "website": "https://brezelkoenig.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2869659,
+          47.073951
+        ]
+      },
+      "id": "node/7555982454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9720574329",
+        "addr:city": "Luzern",
+        "addr:housenumber": "62a",
+        "addr:postcode": "6005",
+        "addr:street": "Tribschenstrasse",
+        "name": "Macchi",
+        "opening_hours": "Mo-Fr 06:45-18:30, Sa 06:45-14:00",
+        "operator": "Bäckerei Macchi",
+        "shop": "bakery",
+        "website": "https://www.macchi-baeckerei.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3164727,
+          47.0424728
+        ]
+      },
+      "id": "node/9720574329"
+    }
+  ]
+}

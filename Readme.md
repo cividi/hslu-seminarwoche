@@ -1,58 +1,46 @@
-# HSLU Seminarwoche 2022
+# HSLU Seminarwoche 2023
 
-- Ziel: https://sandbox.dfour.space/de/IRMV1/T7Y16K/
-- Datengrundlage: OpenStreetMap Export [data/lucerne-supermarkets.csv](data/lucerne-supermarkets.csv)
+- Datengrundlage: OpenStreetMap Export [data/lucerne-bakeries.csv](data/lucerne-bakeries.csv)
 
-![](img/supermarkets-lucerne.png)
+![Bäckereien in Luzern](img/bakeries-lucerne.png)
 
 ## Tools
+
 - Tabellenverarbeitung (z.b. Excel, Numbers, Libre Sheets, ...)
-- Online GeoJSON Editor: [geojson.io](https://geojson.io) – [Mit rohem CSV](https://geojson.io/#id=github:cividi/hslu-seminarwoche/blob/main/data/lucerne-supermarkets.geojson)
-- Data Package Creator: [create.cividi.ch](https://create.cividi.ch) – [Vorbereitetes datapackage.json Template](data/datapackage.json)
-- dføur Sandbox Workspace: [sandbox.dfour.space](https://sandbox.dfour.space/de/IRMV1/T7Y16K/)
+- Online GeoJSON Editor: [geojson.io](https://geojson.io) – [Mit rohem CSV](https://geojson.io/#id=github:cividi/hslu-seminarwoche/blob/main/data/lucerne-bakeries.geojson)
 
 ## Schritte im Detail
 
 ### Daten vorbereiten
-1. Dieses Repo über Code > Download ZIP herunterladen
-1. [data/lucerne-supermarkets.csv](data/lucerne-supermarkets.csv) in Excel öffen (via Daten > aus Text laden)
-    - Encoding / File Format: Unicode / UTF-8
-    - Delimeter/Trennzeichen: Komma
+
+1. [Overpass Turbo Abfrage](https://overpass-turbo.eu/s/1qvl) öffnen und ausführen
+1. Export > GeoJSON Download
+
+### GeoJSON nach CSV konvertieren
+
+1. Auf geojson.io über Open > File exportiertes GeoJSON laden
+1. Über Save > As CSV exportieren
+1. CSV in Excel oder Google Sheets öffen (via Daten > aus Text laden bzw. Import)
+   - Encoding / File Format: Unicode / UTF-8
+   - Delimeter/Trennzeichen: Komma
 1. Als .xlsx speichern zum späteren weiterbearbeiten
-1. Spalten `title`, `description`, `marker-color`, ... händisch oder per Excel Formeln ergänzen
-    - `title`: `=D2` oder jede andere Spalte, ggf. mittels `CONCAT` zusammengefügt (siehe `description`), D3 = Spalte D in der gleichen Zeile, hier Zeile 2
-    - `marker-color`: `=WENN(J2="yes";"#00AF00";WENN(J2="no";"#DC0000";"#B6B6B6"))`, J2: Spalte J in Zeile 2
-    - `wheelchair_label`: `=WENN(J2="yes";"ja";WENN(J2="no";"nein";"unbekannt"))`
-    - `description`: `=TEXTKETTE("Rollstuhlzugänglich: ";L2)` L ggf. anpassen auf Spaltenname der `wheelchair_label` enthält
-1. Datei > Speichern als: Als CSV speichern
 
-### CSV nach GeoJSON konvertieren
-1. Auf geojson.io über Open > File exportiertes CSV laden
-1. Über Save > As GeoJSON exportieren
+### Daten in Kepler öffnen
 
-### Snapshot erstellen
-1. create.cividi.ch aufrufen
-1. Über `Upload`, das Snapshot Template [`data/datapackage.json`](data/datapackage.json) aufrufen
-1. `Add Resource` wählen
-1. Bei der neuen Ressource auf `Load` klicken und das vorher von geojson.io heruntergeladene `.geojson` auswählen
-1. Über `Download` den fertigen snapshot (Data Package) herunterladen
-
-### Snapshot publizieren
-1. [Sandbox Workspace öffnen](https://sandbox.dfour.space/de/IRMV1/T7Y16K/)
-1. Unten links einloggen
-1. Über + einen Snapshot hinzufügen
-1. Titel, Thema und Gemeinde einfüllen
-1. von create.cividi.ch heruntergeladenen Snapshot als JSON Datei auswählen
-1. `Speichern` klicken
+1. [kepler.io](https://kepler.gl/demo) aufrufen
+1. Auf "Add Data" klicken und GeoJSON oder CSV hinzufügen
+1. Nach Bedarf filtern und stylen
 
 ## Weiterführende Links/Hintergünde
+
 - Geo Tools:
-    - [Overpass Turbo](https://overpass-turbo.eu) – OpenStreetMap Query-Interface & Export – [Supermarktabfrage](https://overpass-turbo.eu/s/13se)
-    - [OpenStreetMap](https://openstreetmap.org) – "Wikipedia" der Karten
-    - Schweizer Landeskarte [map.geo.admin.ch](https://map.geo.admin.ch)
-    - [QGIS](https://qgis.org) – freies, open-source GIS
+  - [Overpass Turbo](https://overpass-turbo.eu) – OpenStreetMap Query-Interface & Export – [Bäckereiabfrage](https://overpass-turbo.eu/s/1qvk)
+  - [Kepler](https://kepler.io)
+  - [OpenStreetMap](https://openstreetmap.org) – "Wikipedia" der Karten
+  - Schweizer Landeskarte [map.geo.admin.ch](https://map.geo.admin.ch)
+  - [QGIS](https://qgis.org) – freies, open-source GIS
 - Frictionless Data
-    - [Frictionless Data](https://frictionlessdata.io)
-    - [Official Data Package Creator](https://create.frictionlessdata.io)
-    - [Spatial Data Package](https://github.com/cividi/spatial-data-package-spec)
-    - [dføur Platform](https://github.com/cividi/spatial-data-package-platform)
+  - [Frictionless Data](https://frictionlessdata.io)
+  - [Official Data Package Creator](https://create.frictionlessdata.io)
+  - [Spatial Data Package](https://github.com/cividi/spatial-data-package-spec)
+  - [dføur Platform](https://github.com/cividi/spatial-data-package-platform)
