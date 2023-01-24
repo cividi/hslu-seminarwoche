@@ -34,7 +34,7 @@
 ## Weiterführende Links/Hintergünde
 
 - Geo Tools:
-  - [Overpass Turbo](https://overpass-turbo.eu) – OpenStreetMap Query-Interface & Export – [Bäckereiabfrage](https://overpass-turbo.eu/s/1qvk)
+  - [Overpass Turbo EU](https://overpass-turbo.eu) oder [Overpass Turbo CH](http://overpass-turbo.osm.ch) – OpenStreetMap Query-Interface & Export – [Bäckereiabfrage](https://overpass-turbo.eu/s/1qvk)
   - [Kepler](https://kepler.io)
   - [OpenStreetMap](https://openstreetmap.org) – "Wikipedia" der Karten
   - Schweizer Landeskarte [map.geo.admin.ch](https://map.geo.admin.ch)
