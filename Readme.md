@@ -27,7 +27,7 @@
 
 ### Daten in Kepler öffnen
 
-1. [kepler.io](https://kepler.gl/demo) aufrufen
+1. [kepler.gl](https://kepler.gl/demo) aufrufen
 1. Auf "Add Data" klicken und GeoJSON oder CSV hinzufügen
 1. Nach Bedarf filtern und stylen
 
